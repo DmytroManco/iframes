@@ -1,0 +1,32 @@
+body {
+    box-shadow: 1px 1px 1px 1px #ccc;
+}
+
+#chat {
+    padding: 5px 10px;
+}
+
+.massage-block {
+    padding: 10px;
+}
+
+.massage-block input {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 5px 10px;
+    outline: none;
+}
+
+.massage-block button {
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    height: 2em;
+    width: 120px;
+    outline: none;
+}
+
+.massage-block button:hover {
+    cursor: pointer;
+    color: #fff;
+    background-color: #d3d3d3;
+}
